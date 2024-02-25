@@ -1,7 +1,7 @@
 # Fetch Rewards Data Challenge
 
 ## Overview
-This repository contains the resources and documentation for the Fetch Rewards Data Challenge. It aims to provide a comprehensive analysis of the datasets provided in the `data` folder. The challenge encompasses data cleaning, analysis, and presentation of insights derived from the data. 
+This repository contains the resources and documentation for the Fetch Rewards Data Challenge. It aims to provide a comprehensive analysis of the datasets provided in the `data` folder. The challenge encompasses data cleaning, analysis, data modeling, data quality assessment and presentation of insights derived from the data. 
 
 ## Getting Started
 
